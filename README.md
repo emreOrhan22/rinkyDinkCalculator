@@ -42,7 +42,13 @@ Author
 Emre Orhan
 A mobile technologies student passionate about building simple and effective applications.
 
+<img width="545" alt="RinkyDinkCalculator1" src="https://github.com/user-attachments/assets/bb4f39ef-055f-4126-acbc-90cf80d8f8d6">
+
+<img width="545" alt="RinkyDinkCalculator2" src="https://github.com/user-attachments/assets/d446bc85-3db7-4670-93a8-663f2657ad5c">
+
+<img width="545" alt="RinkyDinkCalculator3" src="https://github.com/user-attachments/assets/442c3ac8-9157-428c-8835-f120476bd7a7">
+
+<img width="545" alt="RinkyDinkCalculator4" src="https://github.com/user-attachments/assets/6ac8582b-aeaf-4412-b496-40ea96c54dd4">
 
 
-<img width="405" alt="RinkyDinkCalculator1" src="https://github.com/user-attachments/assets/7762f667-25ee-473c-ab5d-872e9145f28d">
 
